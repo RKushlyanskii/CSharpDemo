@@ -32,7 +32,7 @@ namespace ConsoleAppDemo
             //Ссылочные типы
             string st = "Hello world";
             int[] array = new int[5];
-            Program pg = new Program(); // class
+            //Program pg = new Program(); // class
         }
 
         void Управляющие_последовательности()
